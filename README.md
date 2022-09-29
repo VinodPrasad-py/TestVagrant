@@ -1,5 +1,5 @@
 # TestVagrant
-Consists Movie Reviwe comparison test framework
+Consists Movie Review comparison test framework
 
 Test Execution:
 
